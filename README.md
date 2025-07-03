@@ -93,7 +93,7 @@ kultra-mega-stores-bi-project/
 
 ## 📊 Sample Visual
 
-<img src=("./pic1.png")/>
+![Top 5 cooperate cuctomer order](./pic1.png)
 
 ---
 
