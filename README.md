@@ -93,7 +93,7 @@ kultra-mega-stores-bi-project/
 
 ## 📊 Sample Visual
 
-<img src="images/sales_by_region.png" alt="Sales by Region" width="600"/>
+<img src=(./pic1)
 
 ---
 
