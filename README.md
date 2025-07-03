@@ -99,7 +99,7 @@ kultra-mega-stores-bi-project/
 ![Charts representing the datasets](./pic4.png)
 ![Charts representing the datasets](./pic5.png)
 ![Charts representing the datasets](./pic6.png)
-
+![Charts representing the datasets](./pic7.png)
 ---
 
 ## 📈 How to Run
