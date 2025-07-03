@@ -93,7 +93,7 @@ kultra-mega-stores-bi-project/
 
 ## 📊 Sample Visual
 
-<img src=(./pic1)
+<img src=("./pic1")
 
 ---
 
