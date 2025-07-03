@@ -44,37 +44,29 @@ As a **Business Intelligence Analyst**, I was tasked with analyzing their histor
 | **Excel** | Data inspection and CSV transformation |
 
 ---
-
-## 🗂️ Project Structure
-
 kultra-mega-stores-bi-project/
 │
 ├── data/
-│ ├── raw/ # Original Excel file
-│ └── processed/ # Cleaned CSV from SQL
+│   ├── raw/                        # Original Excel file
+│   └── processed/                  # Cleaned CSV from SQL
 │
 ├── sql/
-│ ├── schema.sql # Table creation script
-│ ├── queries_case_scenario_1.sql # Scenario I queries
-│ └── queries_case_scenario_2.sql # Scenario II queries
+│   ├── schema.sql                  # Table creation script
+│   ├── queries_case_scenario_1.sql  # Scenario I queries
+│   └── queries_case_scenario_2.sql  # Scenario II queries
 │
 ├── notebooks/
-│ └── kms_eda.ipynb # Full EDA & visualizations in Colab
+│   └── kms_eda.ipynb               # Full EDA & visualizations in Colab
 │
 ├── reports/
-│ └── executive_summary.pdf # Key insights & recommendations
+│   └── executive_summary.pdf       # Key insights & recommendations
 │
 ├── images/
-│ └── charts/ # Screenshots of key plots
+│   └── charts/                     # Screenshots of key plots
 │
-├── requirements.txt # Python dependencies
-└── README.md # Project overview (this file)
+├── requirements.txt                # Python dependencies
+└── README.md                       # Project overview (this file)
 
-yaml
-Copy
-Edit
-
----
 
 ## 📌 Key Findings
 
