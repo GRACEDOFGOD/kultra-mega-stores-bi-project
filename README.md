@@ -93,7 +93,12 @@ kultra-mega-stores-bi-project/
 
 ## 📊 Sample Visual
 
-![Top 5 cooperate cuctomer order](./pic1.png)
+![Charts representing the datasets](./pic1.png)
+![Charts representing the datasets](./pic2.png)
+![Charts representing the datasets](./pic3.png)
+![Charts representing the datasets](./pic4.png)
+![Charts representing the datasets](./pic5.png)
+![Charts representing the datasets](./pic6.png)
 
 ---
 
